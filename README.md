@@ -1,6 +1,6 @@
 ### Hi there, i'm Julien 👋
 # I'm web developer FullStack
-<a href="https://portfolio-front-kohl.vercel.app/"> MyPortfolio</a>
+<a fontSize="32px" href="https://portfolio-front-kohl.vercel.app/"> MyPortfolio</a>
 
 <img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=Foucsi&show_icons=true&theme=radical"/>
 
