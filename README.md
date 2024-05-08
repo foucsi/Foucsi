@@ -2,7 +2,7 @@
 # I'm web developer FullStack
 <a fontSize="32px" href="https://julienfoucart.fr/" target="_blank"> MyPortfolio</a>
 
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=Foucsi&show_icons=true&theme=radical"/>
+
 
 <img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Foucsi&hide_progress=true"/>
 
