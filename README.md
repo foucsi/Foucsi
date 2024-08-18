@@ -83,7 +83,7 @@ I'm always open to discussing new opportunities, projects, or simply chatting ab
 
 - **Website:** [JulienFoucart.fr](https://julienfoucart.fr)
 - **LinkedIn:** [Julien Foucart](https://www.linkedin.com/in/julien-foucart-333a40251/)
-- **Email:** [contact@julienfoucart.fr](mailto:contact@julienfoucart.fr)
+- **Email:** [julienfoucart@proton.fr](mailto:contact@julienfoucart.fr)
 
 ![Footer](https://yourimageurl.com/footer) <!-- Replace with your own footer image -->
 
