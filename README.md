@@ -90,7 +90,7 @@ As I continue this journey, I’m constantly applying what I learn to real-world
 
 ---
 
-## 🌟 Testimonials
+## 🌟 What People Say
 
 I'm grateful to have worked with amazing colleagues and clients who have shared their thoughts on our collaboration. Here are some of their testimonials:
 
