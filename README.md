@@ -65,9 +65,7 @@ Explore more of my projects on my [GitHub repositories](https://github.com/Julie
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foucsi&theme=radical)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=foucsi&repo=repository-name&theme=radical)
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=foucsi&theme=radical)
 
 
 ---
