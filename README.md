@@ -3,14 +3,6 @@
 [![Portfolio](https://img.shields.io/badge/Website-JulienFoucart.fr-000000?style=flat&logo=google-chrome&logoColor=white)](https://julienfoucart.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Foucart-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-foucart-333a40251/)
 
-![Banner](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/Tech_Banner.png)
-
-
-
-
-
-
-
 ---
 
 ## 👋 Welcome to My GitHub Profile!
@@ -96,5 +88,5 @@ I'm always open to discussing new opportunities, projects, or simply chatting ab
 - **LinkedIn:** [Julien Foucart](https://www.linkedin.com/in/julien-foucart-333a40251/)
 - **Email:** [julienfoucart@proton.fr](mailto:contact@julienfoucart.fr)
 
-![Footer](https://yourimageurl.com/footer) <!-- Replace with your own footer image -->
+
 
