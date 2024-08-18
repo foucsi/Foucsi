@@ -73,7 +73,6 @@ Explore more of my projects on my [GitHub repositories](https://github.com/Julie
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![3D Contributions](https://skyline.github.com/foucsi/2024)
 
 
 
