@@ -70,13 +70,23 @@ Throughout my career, I’ve enjoyed solving complex challenges and delivering h
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foucsi&theme=radical)
 
+---
 
+## 🌱 Learning Journey
 
+I'm committed to continuously improving my skills and staying updated with the latest technologies. Here's what I'm currently focusing on:
 
+- **🐍 Python**: Deepening my knowledge in Python, particularly in areas like data analysis, automation, and machine learning. I'm working on projects that utilize Python's vast ecosystem, including libraries like Pandas, NumPy, and TensorFlow.
 
+- **🍃 MongoDB**: Enhancing my expertise in NoSQL databases by mastering MongoDB. I'm diving into advanced querying, indexing, and performance optimization, and applying these skills in fullstack applications.
 
+- **💡 JavaScript (TypeScript)**: Strengthening my frontend and backend capabilities by refining my TypeScript skills. I'm building robust, type-safe applications and exploring modern frameworks like Next.js.
 
+- **☁️ Cloud Computing**: Exploring cloud services, particularly AWS and Docker, to better understand and implement scalable, reliable cloud architectures.
 
+- **🔍 DevOps Practices**: Integrating DevOps principles into my workflow by automating deployment pipelines, improving CI/CD processes, and ensuring high availability of applications.
+
+As I continue this journey, I’m constantly applying what I learn to real-world projects, ensuring that my skills are not just theoretical but also practical and impactful.
 
 ---
 
