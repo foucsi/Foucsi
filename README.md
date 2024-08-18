@@ -57,17 +57,9 @@ Explore more of my projects on my [GitHub repositories](https://github.com/Julie
 
 # 📊 GitHub Stats & Activity
 
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=foucsi)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foucsi&theme=radical)
 
-# 🌟 Cool GitHub Stats & Activity
 
-![Open Source Engagement](https://github-contributor-stats.vercel.app/api/?username=foucsi&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foucsi&theme=radical)
 
 
 
