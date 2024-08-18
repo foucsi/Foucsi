@@ -67,11 +67,8 @@ Explore more of my projects on my [GitHub repositories](https://github.com/Julie
 
 ![Open Source Engagement](https://github-contributor-stats.vercel.app/api/?username=foucsi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-![GitHub Spiral](https://github-readme-spiral.herokuapp.com/?user=foucsi&theme=radical)
-
 ![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foucsi&theme=radical)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
