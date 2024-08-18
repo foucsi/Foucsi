@@ -46,8 +46,6 @@ I'm passionate about contributing to the open-source community, where I can coll
 
 - **[NodeSecure](https://github.com/NodeSecure)** 📦: NodeSecure is a powerful and secure tool for scanning your Node.js project dependencies and identifying potential security risks. I've actively contributed to this project, helping to enhance its features and ensure it remains a reliable resource for developers.
 
-Through my work in open source, I strive to make a positive impact on the developer community by improving the tools we all rely on every day.
-
 ---
 
 ## 🌟 Experience & Projects
