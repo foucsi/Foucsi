@@ -5,7 +5,8 @@
 
 ![Banner](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
 
-![Banner](https://raw.githubusercontent.com/JulienFoucart/assets/main/tech_banner.png)
+![Banner](https://images.unsplash.com/photo-1505685296765-3a2736de412f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHRlY2glMjBidXNpbmVzc3xlbnwwfHx8fDE2MjYzMDc2MjU&ixlib=rb-1.2.1&q=80&w=1080)
+
 
 
 
