@@ -55,12 +55,20 @@ Explore more of my projects on my [GitHub repositories](https://github.com/Julie
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foucsi&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=foucsi)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=foucsi&theme=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foucsi&theme=radical)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=foucsi&repo=repository-name&theme=radical)
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=foucsi&theme=radical)
+
 
 ---
 
