@@ -58,8 +58,6 @@ Explore more of my projects on my [GitHub repositories](https://github.com/Julie
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foucsi&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com/?user=foucsi&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foucsi&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
