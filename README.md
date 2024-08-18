@@ -3,7 +3,8 @@
 [![Portfolio](https://img.shields.io/badge/Website-JulienFoucart.fr-000000?style=flat&logo=google-chrome&logoColor=white)](https://julienfoucart.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Foucart-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-foucart-333a40251/)
 
-![Banner](https://images.unsplash.com/photo-1531496633459-aceb33e90e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fHRlY2h8ZW58MHx8fHwxNjI2MzA3NjI1&ixlib=rb-1.2.1&q=80&w=1080)
+![Banner](https://images.unsplash.com/photo-1518085250887-2a08a33a7ec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDh8fHRlY2h8ZW58MHx8fHwxNjI2MzA3NjI1&ixlib=rb-1.2.1&q=80&w=1080)
+
 
 
 ---
