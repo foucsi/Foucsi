@@ -5,6 +5,9 @@
 
 ![Banner](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
 
+![Banner](https://raw.githubusercontent.com/JulienFoucart/assets/main/tech_banner.png)
+
+
 
 
 
