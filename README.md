@@ -129,15 +129,6 @@ I'm grateful to have worked with amazing colleagues and clients who have shared 
 
 *"I don't usually give recommendations, but regarding Julien, I do so with great pleasure. Julien is passionate about coding. If I had to summarize, I would say that he is first and foremost a very curious developer, highly organized, and constantly seeking solutions. He is conscientious and faces all technical challenges with determination. I believe this characteristic is the most striking when you have the opportunity to work with him. There are never any unsolved problems when Julien is involved. Lastly, Julien has undeniable human qualities and a keen sense of communication, which allows him to adapt quickly to any professional environment."*
 
-✨✨✨
-
----
-
-### ![Yannick Mathieu](https://user-images.githubusercontent.com/YannickMathieu)  **Yannick Mathieu - La Capsule**  
-*Date: April 6, 2023*
-
-*"I don't usually give recommendations, but regarding Julien, I do so with great pleasure. Julien is passionate about coding. If I had to summarize, I would say that he is first and foremost a very curious developer, highly organized, and constantly seeking solutions. He is conscientious and faces all technical challenges with determination. I believe this characteristic is the most striking when you have the opportunity to work with him. There are never any unsolved problems when Julien is involved. Lastly, Julien has undeniable human qualities and a keen sense of communication, which allows him to adapt quickly to any professional environment."*
-
 ---
 
 ## 🤝 Let's Connect!
