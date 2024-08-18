@@ -96,38 +96,41 @@ I'm grateful to have worked with amazing colleagues and clients who have shared 
 
 ✨✨✨
 
-### ![Nooman Miled](https://user-images.githubusercontent.com/NoomanMiled)  **Nooman Miled - Freelance**  
+### 👤 **Nooman Miled - Freelance**  
 *Date: March 31, 2023*
 
 *"I had the chance to work with Julien on a client project. He was able to grasp the requirements, identify the main functionalities, and approach the development in the best possible way. Julien is professional, but above all, passionate, which is very beneficial during a collaboration."*
 
 ✨✨✨
 
-### ![Pascal Nativel](https://user-images.githubusercontent.com/PascalNativel)  **Pascal Nativel - Ferroglobe**  
+### 👤 **Pascal Nativel - Ferroglobe**  
 *Date: March 31, 2023*
 
 *"I had the pleasure of working with Julien for over 6 years. His calm demeanor, availability, work ethic, and stress management skills have greatly benefited our organization. Highly recommended."*
 
 ✨✨✨
 
-### ![Mahmoud Wright](https://user-images.githubusercontent.com/MahmoudWright)  **Mahmoud Wright - Vega Inc.**  
+### 👤 **Mahmoud Wright - Vega Inc.**  
 *Date: March 30, 2023*
 
 *"I highly recommend Julien Foucart for his excellent work as a Scrum Master during March at our startup. Julien demonstrated remarkable mastery of Scrum methodology, which greatly contributed to our organization's efficiency. His project management skills and ability to motivate and support team members are invaluable assets that make him a key element in any successful team."*
 
 ✨✨✨
 
-### ![Isabelle V.](https://user-images.githubusercontent.com/IsabelleV)  **Isabelle V. - Freelance**  
+### 👩 **Isabelle V. - Freelance**  
 *Date: June 5, 2024*
 
 *"I had the opportunity to work with Julien at my previous company, where he was a contractor. From the beginning, Julien stood out for his calmness and professionalism, always finding the right solutions with rigor and methodology, no matter the problem. Julien also has an excellent sense of communication and works remarkably well with teams, which greatly facilitates collaboration."*
 
 ✨✨✨
 
-### ![Yannick Mathieu](https://user-images.githubusercontent.com/YannickMathieu)  **Yannick Mathieu - La Capsule**  
+### 👤 **Yannick Mathieu - La Capsule**  
 *Date: April 6, 2023*
 
 *"I don't usually give recommendations, but regarding Julien, I do so with great pleasure. Julien is passionate about coding. If I had to summarize, I would say that he is first and foremost a very curious developer, highly organized, and constantly seeking solutions. He is conscientious and faces all technical challenges with determination. I believe this characteristic is the most striking when you have the opportunity to work with him. There are never any unsolved problems when Julien is involved. Lastly, Julien has undeniable human qualities and a keen sense of communication, which allows him to adapt quickly to any professional environment."*
+
+✨✨✨
+
 
 ---
 
