@@ -5,6 +5,10 @@
 
 ---
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=foucsi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ## 👋 Welcome to My GitHub Profile!
 
 I'm **Julien Foucart**, a passionate Fullstack Developer with a knack for building efficient, scalable, and user-friendly web applications. Whether it's frontend finesse or backend robustness, I bring a full spectrum of skills to the table, eager to turn ideas into impactful digital experiences.
