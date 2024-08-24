@@ -3,6 +3,21 @@
 [![Portfolio](https://img.shields.io/badge/Website-JulienFoucart.fr-000000?style=flat&logo=google-chrome&logoColor=white)](https://julienfoucart.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Foucart-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-foucart-333a40251/)
 
+
+### 👋 Hi, I'm **Julien Foucart**
+
+I’m a **backend wizard** and **code artisan** with a passion for building scalable, high-performance systems. With deep expertise in **Node.js** and a relentless drive for innovation, I transform complex problems into streamlined solutions. My code doesn’t just work—it thrives under pressure.
+
+#### 🚀 **What I Bring to the Table:**
+- **Master of Node.js** with a flair for crafting rock-solid APIs.
+- **Architect of Scalable Systems** that are as resilient as they are efficient.
+- **Open Source Contributor** making waves in the developer community.
+
+#### 🌟 **On a Mission:**
+To push the boundaries of what’s possible in backend development, and to leave every codebase better than I found it.
+
+Let’s create something extraordinary.
+
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=foucsi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
