@@ -5,15 +5,15 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonNomUtilisateur&layout=compact&theme=radical)
+---
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=foucsi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical)
 
 ---
-
-## 👋 Welcome to My GitHub Profile!
-
-I'm **Julien Foucart**, a passionate Fullstack Developer with a knack for building efficient, scalable, and user-friendly web applications. Whether it's frontend finesse or backend robustness, I bring a full spectrum of skills to the table, eager to turn ideas into impactful digital experiences.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonNomUtilisateur&layout=compact&theme=radical)
 
 ---
 
