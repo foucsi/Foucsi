@@ -7,6 +7,8 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=foucsi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical)
+
 ---
 
 ## 👋 Welcome to My GitHub Profile!
