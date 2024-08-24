@@ -12,8 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foucsi&layout=compact&theme=radical)
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonNomUtilisateur&layout=compact&theme=radical)
 
 ---
 
