@@ -4,19 +4,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Foucart-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-foucart-333a40251/)
 
 
-### 👋 Hi, I'm **Julien Foucart**
+👋 Hi, I'm Julien Foucart
 
-I’m a **backend wizard** and **code artisan** with a passion for building scalable, high-performance systems. With deep expertise in **Node.js** and a relentless drive for innovation, I transform complex problems into streamlined solutions. My code doesn’t just work—it thrives under pressure.
+I’m a seasoned backend engineer with a knack for building scalable, high-performance systems. My journey with Node.js has been a relentless pursuit of excellence, where I turn complex challenges into elegant, efficient solutions. My code doesn’t just meet expectations—it sets new standards.
 
-#### 🚀 **What I Bring to the Table:**
-- **Master of Node.js** with a flair for crafting rock-solid APIs.
-- **Architect of Scalable Systems** that are as resilient as they are efficient.
-- **Open Source Contributor** making waves in the developer community.
+🚀 **What I Bring:**
+- **Node.js Expert:** Specializing in crafting robust, high-performance APIs that are both maintainable and scalable.
+- **System Architect:** Designing and implementing systems that are resilient, efficient, and capable of handling immense loads.
+- **Open Source Advocate:** Actively contributing to the community, sharing innovations, and improving tools for developers worldwide.
 
-#### 🌟 **On a Mission:**
-To push the boundaries of what’s possible in backend development, and to leave every codebase better than I found it.
+🌟 **My Mission:**
+To redefine what's possible in backend development, ensuring every project I touch is left in a better state than I found it.
 
-Let’s create something extraordinary.
+Let’s build something remarkable together.
+
 
 ---
 
