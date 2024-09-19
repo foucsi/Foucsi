@@ -60,6 +60,17 @@ I'm passionate about contributing to the open-source community, where I can coll
 
 - **[NodeSecure](https://github.com/NodeSecure)** 📦: NodeSecure is a powerful and secure tool for scanning your Node.js project dependencies and identifying potential security risks. I've actively contributed to this project, helping to enhance its features and ensure it remains a reliable resource for developers.
 
+- ## ⚡️ My Open Source Project ⚡️
+
+Open source fuels innovation and collaboration! I've recently launched an exciting **open-source project** aimed at creating a fullstack template with a clean architecture, designed for developers to quickly kickstart their own projects with solid foundations.
+
+If you're passionate about clean, modular, and scalable architecture for fullstack development, then this project is for you! Whether you're a beginner or an experienced dev, contributions are **more than welcome**! 💻✨
+
+**[Check out my Open Source Repo Here!](https://github.com/foucsi/fullstack_archi_app)**
+
+Be part of this journey, contribute, and help improve a template that could shape future fullstack projects! Let's build something **amazing** together! 🚀
+
+
 ---
 
 ## 🌟 Experience & Projects
