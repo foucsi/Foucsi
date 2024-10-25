@@ -121,6 +121,23 @@ As I continue this journey, I’m constantly applying what I learn to real-world
 
 I'm grateful to have worked with amazing colleagues and clients who have shared their thoughts on our collaboration. Here are some of their testimonials:
 
+👤 Ekaterina Golubeva - Zurich University of Applied Sciences
+Date: October 25, 2024
+
+"Looking for a fast and efficient app perfectly tailored to your needs? It's possible! Thanks to Julien, I now have a custom image classifier that includes all the necessary features for my workflow."
+
+Julien developed this application with essential functionalities that make navigating, classifying, and organizing large sets of images intuitive and efficient. Here’s what he implemented according to my specifications:
+
+Keyboard Navigation: Julien made image navigation seamless by integrating keyboard commands, allowing easy transitions from one image to the next or from page to page using arrow keys.
+Clickable Image Selection: Images can be selected with a simple click, featuring clear visual indicators (color or blur) to distinguish selected items.
+Integrated Metadata Management: Each image is associated with unique metadata (ID) directly linked to a CSV file, enabling quick export of selections into distinct "yes" and "no" categories.
+Session Management: He included a "session restart" button for testing, and all classifications can be saved, allowing work to be resumed exactly where it left off.
+Progress Tracking: A progress bar with a precise count shows how many images are left to classify, making the process smoother and more motivating.
+User-Friendly Documentation: Julien provided a comprehensive README file on GitHub with clear instructions for running the application on another computer, including NodeJS installation.
+Working with Julien was an absolute pleasure; he not only developed these features in under two weeks but also assisted with the setup. His efficiency and expertise made this complex project straightforward and successful.
+
+For anyone looking for a skilled developer who can understand specific needs and deliver quickly, I highly recommend Julien. You can check out his work on GitHub — he’s the developer you need on your team!
+
 ✨✨✨
 
 ### 👤 **Nooman Miled - Freelance**  
