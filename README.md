@@ -121,7 +121,9 @@ As I continue this journey, I’m constantly applying what I learn to real-world
 
 I'm grateful to have worked with amazing colleagues and clients who have shared their thoughts on our collaboration. Here are some of their testimonials:
 
-👤 Ekaterina Golubeva - Zurich University of Applied Sciences
+✨✨✨
+
+### 👤 Ekaterina Golubeva - Zurich University of Applied Sciences
 Date: October 25, 2024
 
 "Looking for a fast and efficient app perfectly tailored to your needs? It's possible! Thanks to Julien, I now have a custom image classifier that includes all the necessary features for my workflow."
