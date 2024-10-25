@@ -126,7 +126,7 @@ I'm grateful to have worked with amazing colleagues and clients who have shared 
 ### 👤 Ekaterina Golubeva - Zurich University of Applied Sciences
 Date: October 25, 2024
 
-"Looking for a fast and efficient app perfectly tailored to your needs? It's possible! Thanks to Julien, I now have a custom image classifier that includes all the necessary features for my workflow."
+*"Looking for a fast and efficient app perfectly tailored to your needs? It's possible! Thanks to Julien, I now have a custom image classifier that includes all the necessary features for my workflow."
 
 Julien developed this application with essential functionalities that make navigating, classifying, and organizing large sets of images intuitive and efficient. Here’s what he implemented according to my specifications:
 
@@ -138,7 +138,7 @@ Progress Tracking: A progress bar with a precise count shows how many images are
 User-Friendly Documentation: Julien provided a comprehensive README file on GitHub with clear instructions for running the application on another computer, including NodeJS installation.
 Working with Julien was an absolute pleasure; he not only developed these features in under two weeks but also assisted with the setup. His efficiency and expertise made this complex project straightforward and successful.
 
-For anyone looking for a skilled developer who can understand specific needs and deliver quickly, I highly recommend Julien. You can check out his work on GitHub — he’s the developer you need on your team!
+For anyone looking for a skilled developer who can understand specific needs and deliver quickly, I highly recommend Julien. You can check out his work on GitHub — he’s the developer you need on your team!*
 
 ✨✨✨
 
